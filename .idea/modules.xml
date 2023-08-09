@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringDzBot-2186d3d9f91d56a3808eff246d3e724aaa4c0dc5/SpringBootMVC.iml" filepath="$PROJECT_DIR$/SpringDzBot-2186d3d9f91d56a3808eff246d3e724aaa4c0dc5/SpringBootMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringDzBot1.iml" filepath="$PROJECT_DIR$/.idea/SpringDzBot1.iml" />
+    </modules>
+  </component>
+</project>
